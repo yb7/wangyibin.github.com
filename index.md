@@ -8,7 +8,7 @@ title: Home
 
 <img class='inset left' title='Mark Reid' src='/images/wyb_small.jpg' alt='Photo of Jonas' />
 
-I'm Wang Yibin, co-founder of start-up company, a technology enthusiast, programmer. I'm also a husband, food addict, I dreams to have a lake house, living with my family. 
+I'm Wang Yibin, co-founder of ANDA Soft, a technology enthusiast, programmer. I'm also a husband, food addict, I dreams to have a lake house, living with my family. 
 <br/>
 See my <a href="/resume.html">Resume</a> for more info.
 <div class='section'>
