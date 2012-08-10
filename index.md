@@ -13,7 +13,7 @@ I'm Wang Yibin, co-founder of ANDA Soft, a technology enthusiast, programmer. I'
 See my <a href="/resume.html">Resume</a> for more info.
 <div class='section'>
 <h1 id='work'>Work</h1>
-I'm the co-founder of <a href="http://www.andasoft.cn">ANDA Soft</a> building a software for third-party logistics companies. We use: 
+Co-founder of <a href="http://www.andasoft.cn">ANDA Soft</a> building a software for third-party logistics companies. We use: 
 <ul class='compact recent'>
   <li><a href="http://www.scala-lang.org">Scala</a> Programming Language</li>
   <li><a href="http://www.springframework.org">Spring</a> Framework</li>
