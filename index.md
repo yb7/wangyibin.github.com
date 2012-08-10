@@ -6,7 +6,7 @@ title: Home
 
 <h1 id='welcome'>Welcome</h1>
 
-<img class='inset left' title='Mark Reid' src='/images/wyb_small.JPG' alt='Photo of Jonas' />
+<img class='inset left' title='Mark Reid' src='/images/wyb_small.jpg' alt='Photo of Jonas' />
 
 I'm Wang Yibin, co-founder of start-up company, a technology enthusiast, programmer. I'm also a husband, food addict, I dreams to have a lake house, living with my family. 
 <br/>
